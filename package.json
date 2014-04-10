@@ -1,0 +1,21 @@
+{
+  "name": "browserify-piped-issue-example",
+  "version": "0.0.0",
+  "description": "Piped input produces different output versus passing filename when using --require",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "browserify": "3.39.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cymen/browserify-piped-input-issue"
+  },
+  "bugs": {
+    "url": "https://github.com/cymen/browserify-piped-input-issue/issues"
+  },
+  "homepage": "https://github.com/cymen/browserify-piped-input-issue"
+}
